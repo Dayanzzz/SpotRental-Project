@@ -7,15 +7,5 @@ router.get('/hello/world', function(req, res) {
   res.send('Hello World!');
 });
 
-// backend/app.js
-const routes = require('./routes');
-
-// ...
-
-app.use(routes); // Connect all the routes
-
-
-
-
 
 module.exports = router;
