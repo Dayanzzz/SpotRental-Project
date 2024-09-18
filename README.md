@@ -1,11 +1,11 @@
-# Project Prep
+# Spot Rental Project
 
-## Create your Database Schema
+## Database Schema Design
 
-- Create your DB Schema with dbdigram.io
-- Use the Req/Res of the API Docs to inform your DB Schema creation
+![db-schema]
+[db-schema]: ./images/spotrental_schema.png
 
-## Fill out the API Docs
+## API Documentation
 
 Begin to fill out the API Docs with URLs and methods with your team.
 
